@@ -1,0 +1,123 @@
+*{
+    font-family: "Verdana";
+}
+
+body{
+    background-image: url(../img/fundo.png);
+    background-size:cover;
+    background-attachment:fixed;
+
+}
+#Principal{
+    width: 80%;
+    margin: 0 10% 0 10%;
+}
+#Cabecalho{
+    width: 100%;
+    height: 200px;
+    float: left;
+    background-color: brown;
+    margin-bottom: 5px;
+    border-radius: 10px; 
+}
+#Menu{
+    width:100%;
+    background: white;
+    height: 50px;
+    float: left;
+    border-radius: 10px;
+
+
+}
+#Conteudo{
+    width: 100%;
+    height: auto;
+    background-color: darkgrey;
+    float: left;
+    border-radius: 10px;
+    margin: 5px 0 10px 0;
+}
+
+#Rodape{
+    width: 100%;
+    background-color: brown;
+    float: left;
+    border-radius: 10px;
+    height: 50px;
+
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin: 0 10% 0 10%;
+
+}
+li{
+    text-align: center;
+    margin: 5px auto;
+}
+h3{
+    margin-top: 2%;
+    color: white;
+    font-size: 40px;
+}
+h4{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+#imgContent1{
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-size: cover;
+    background-image: url(../img/1.png);
+    margin: 2% 1% 2% 1%;
+
+}
+#imgContent2{
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-size: cover;
+    background-image: url(../img/2.jpg);
+    margin: 2% 1% 2% 1%;
+
+}
+#imgContent3{
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-size: cover;
+    background-image: url(../img/3.jpg);
+    margin: 2% 1% 2% 1%;
+
+}
+#imgContent4{
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-size: cover;
+    background-image: url(../img/4.jpg);
+    margin: 2% 1% 2% 1%;
+   
+}
+#imgContent5{
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-size: cover;
+    background-image: url(../img/6.jpg);
+    margin: 2% 1% 2% 1%;
+
+}
+#imgContent6{
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-image: url(../img/pincél-rosa.jpg);
+    background-size: cover;
+    margin: 2% 1% 2% 1%;
+    
+}
